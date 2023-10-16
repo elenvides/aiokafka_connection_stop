@@ -1,1 +1,4 @@
-# aiokafka_connection_stop
+docker-compose up --build
+
+python main.py
+
